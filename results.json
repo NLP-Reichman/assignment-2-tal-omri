@@ -12,8 +12,8 @@
     "num_tags": 18
   },
   "test_hmm": {
-    "precision": 0.75,
-    "recall": 0.69,
+    "precision": 0.76,
+    "recall": 0.68,
     "f1": 0.7
   },
   "test_embeddings_model": {
